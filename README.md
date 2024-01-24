@@ -1,6 +1,6 @@
 # ¡Hola! Soy Alex 👋
 
-Soy un apasionado desarrollador de software con experiencia en Java y Spring Boot.
+Soy un apasionado en el desarrollo de software 
 
 ## Sobre mí
 - Excelente desarrollador de software con experiencia en Backend y DevOps. Con gran capacidad de trabajo en equipo, dominio de las más modernas técnicas y herramientas de trabajo. Autodidacta y con gran iniciativa personal, imaginación y capacidad para aportar soluciones óptimas a cada tipo de problema que se plantea.
@@ -13,6 +13,7 @@ Soy un apasionado desarrollador de software con experiencia en Java y Spring Boo
 
 ## Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexpm27&show_icons=true)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpm27&layout=compact)
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexpm27/)
