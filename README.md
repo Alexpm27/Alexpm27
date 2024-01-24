@@ -12,8 +12,8 @@ Soy un apasionado en el desarrollo de software
 - Frontend: React, HTML, CSS.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexpm27&show_icons=true)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpm27&layout=compact)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexpm27&show_icons=true&theme=dark)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexpm27&layout=compact&theme=dark)
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexpm27/)
