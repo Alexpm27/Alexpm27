@@ -12,7 +12,7 @@ Soy un apasionado desarrollador de software con experiencia en Java y Spring Boo
 - Frontend: React, HTML, CSS.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Alexpm27&show_icons=true)
 
 ## Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alexpm27/)
