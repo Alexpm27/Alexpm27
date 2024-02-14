@@ -11,7 +11,7 @@
 - 💬 Ask me about **Java, Spring boot and AWS**
 
 
-<h3 align="left">LANGUAGES & TOOLS</h3>
+<h4 align="left">LANGUAGES & TOOLS</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
