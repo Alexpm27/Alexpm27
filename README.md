@@ -32,11 +32,12 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   </a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexpm27&theme=dark" alt="alexpm27" />
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexpm27&theme=dark" alt="alexpm27" /></p>
+<p></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
