@@ -12,26 +12,26 @@
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/2ItOVhD.png" alt="java" width="60" height="60"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/jmshEQW.png" alt="spring" width="60" height="60"/>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/B95IE3C.png" alt="aws" width="60" height="60"/>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/HtYmHsF.png" alt="docker" width="60" height="60"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/Tcz4pVT.png" alt="mysql" width="60" height="60"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/Y4w3G6A.png" alt="git" width="60" height="60"/>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://i.imgur.com/r8NfZ8N.png" alt="postman" width="60" height="60"/>
+  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   </a>
 </p>
 
