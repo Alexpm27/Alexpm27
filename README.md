@@ -12,7 +12,7 @@
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 100px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
