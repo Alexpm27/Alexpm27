@@ -1,3 +1,9 @@
+<style>
+  .logo-link {
+    margin-right: 100px; 
+  }
+</style>
+
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Excellent software developer with experience in Backend and DevOps. With great capacity for teamwork, mastery of the most modern techniques and work tools. Self-taught and with great personal initiative, imagination and ability to provide optimal solutions to each type of problem that arises.</h3>
 
@@ -34,13 +40,6 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
   </a>
 </p>
-
-<style>
-  .logo-link {
-    margin-right: 20px; /* Puedes ajustar este valor según lo necesites */
-  }
-</style>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpm27&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexpm27" /></p>
 
