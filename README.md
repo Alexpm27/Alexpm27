@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Excellent software developer with experience in Backend and DevOps.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpm27&label=Profile%20views&color=0e75b6&style=flat" alt="alexpm27" /> </p>
 
 - 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend)
 
