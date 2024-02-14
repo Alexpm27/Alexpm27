@@ -35,6 +35,12 @@
   </a>
 </p>
 
+<style>
+  .logo-link {
+    margin-right: 20px; /* Puedes ajustar este valor según lo necesites */
+  }
+</style>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpm27&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexpm27" /></p>
 
