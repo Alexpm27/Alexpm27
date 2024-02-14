@@ -2,7 +2,7 @@
 <h3 align="center">Excellent software developer with experience in Backend and DevOps.</h3>
 
 
-- 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend)
+- 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend) <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpm27&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexpm27" /></p>
 
 - 🌱 I’m currently learning **Swift**
 
@@ -10,7 +10,6 @@
 
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpm27&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexpm27" />
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
@@ -35,7 +34,7 @@
   </a>
 </p>
 
-<p></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexpm27&theme=dark" alt="alexpm27" /></p>
 
