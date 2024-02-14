@@ -1,9 +1,3 @@
-<style>
-  .logo-link {
-    margin-right: 100px; 
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Excellent software developer with experience in Backend and DevOps. With great capacity for teamwork, mastery of the most modern techniques and work tools. Self-taught and with great personal initiative, imagination and ability to provide optimal solutions to each type of problem that arises.</h3>
 
@@ -17,6 +11,11 @@
 
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
+<style>
+  .logo-link {
+    margin-right: 100px; 
+  }
+</style>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
