@@ -1,6 +1,6 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mauro and I'm a BackEnd developer and DevOps, from <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.es%2Ficono-gratis%2Fmexico_299696&psig=AOvVaw3lBXRW8nX7sjLu21oeUgQt&ust=1707983010691000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiu1taqqoQDFQAAAAAdAAAAABAR" width="17" /> <b>Chiapas, México</b>. </p>
+<p> My name is Mauro and I'm a BackEnd developer and DevOps, from <b>Chiapas, México</b>. </p>
 
 
 - 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend) <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexpm27&show_icons=true&locale=en&layout=compact&theme=dark" alt="alexpm27" /></p>
