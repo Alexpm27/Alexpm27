@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend) 
 
-- 🌱 I’m currently learning **AWS**  <img align="right" height="150" src="https://media1.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e474qja5hdzkzchp110n696msuy6muqlde2wqqbapue&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+- 🌱 I’m currently learning **AWS**  <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDloaHFubnE1bGY0bWZza3djNXN5NGJoMXMwdmZiZm5xMDJpdzc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
 
 
 - 💬 Ask me about **Java, Spring boot and AWS**
