@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="left">Excellent software developer with experience in Backend and DevOps. With great capacity for teamwork, mastery of the most modern techniques and work tools. Self-taught and with great personal initiative, imagination and ability to provide optimal solutions to each type of problem that arises.</h3>
+<h3 align="center">Excellent software developer with experience in Backend and DevOps.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexpm27&label=Profile%20views&color=0e75b6&style=flat" alt="alexpm27" /> </p>
 
