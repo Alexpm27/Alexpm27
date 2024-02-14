@@ -11,29 +11,24 @@
 
 
 <h3 align="left">LANGUAGES AND TOOLS</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
-  </a>
-</p>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
 
 
 
