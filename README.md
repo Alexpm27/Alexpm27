@@ -1,59 +1,49 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <header>
-        <h1>Delichi BackEnd</h1>
-    </header>
-    <section>
-        <h2>Instalación</h2>
-        <p>Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local:</p>
-        <h3>Requisitos previos</h3>
-        <ul>
-            <li><strong>Java Development Kit (JDK) 17 o superior:</strong> <a href="https://adoptopenjdk.net/">Descargar JDK</a></li>
-            <li><strong>Apache Maven:</strong> <a href="https://maven.apache.org/download.cgi">Descargar Apache Maven</a></li>
-            <li><strong>Git:</strong> <a href="https://git-scm.com/downloads">Descargar Git</a></li>
-            <li><strong>IDE de tu preferencia</strong> (por ejemplo, IntelliJ IDEA, Eclipse)</li>
-        </ul>
-        <h3>Clonar el repositorio</h3>
-        <p>Abre tu terminal o línea de comandos y ejecuta el siguiente comando para clonar este repositorio:</p>
-        <pre><code>git clone https://github.com/Alexpm27/delichi-proyecto.git</code></pre>
-    </section>
-    <section>
-        <h2>Configuración de la base de datos</h2>
-        <p>El proyecto utiliza una base de datos MySQL. Asegúrate de tener MySQL instalado en tu sistema.</p>
-        <ol>
-            <li><strong>Crea una base de datos en MySQL</strong> con el nombre <code>delichi</code>.</li>
-            <li><strong>Configura las credenciales de la base de datos</strong> en el archivo <code>application.properties</code> ubicado en <code>src/main/resources</code>. Aquí está un ejemplo de configuración:</li>
-        </ol>
-        <pre><code>spring.datasource.url=jdbc:mysql://localhost:3306/delichi
-spring.datasource.username=tu-usuario
-spring.datasource.password=Tu-Contraseña</code></pre>
-    </section>
-    <section>
-        <h2>Ejecutar la aplicación</h2>
-        <p>Una vez que hayas configurado la base de datos, puedes ejecutar la aplicación desde tu IDE o utilizando Maven. Desde la línea de comandos, navega hasta el directorio raíz del proyecto y ejecuta el siguiente comando:</p>
-        <pre><code>mvn spring-boot:run</code></pre>
-        <p>La aplicación estará disponible en <code>http://localhost:8080</code>.</p>
-    </section>
-     <section>
-        <h2>Contribuciones</h2>
-        <p>¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:</p>
-        <ol>
-            <li>Haz un fork del proyecto.</li>
-            <li>Crea una nueva rama (<code>git checkout -b feature/nueva-caracteristica</code>).</li>
-            <li>Haz tus cambios y haz commits (<code>git commit -am 'Añadir nueva característica'</code>).</li>
-            <li>Sube tus cambios al repositorio (<code>git push origin feature/nueva-caracteristica</code>).</li>
-            <li>Crea un nuevo pull request.</li>
-        </ol>
-    </section>
-    <section>
-        <h2>Licencia</h2>
-        <p>Este proyecto está bajo la Licencia MIT. Para más detalles, por favor consulta el archivo <code>LICENSE</code>.</p>
-    </section>
-</body>
-</html>
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+
+<p> My name is Alex and I'm a BackEnd developer and DevOps, from <b>Chiapas, México</b>. </p>
+
+
+- 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend) 
+
+- 🌱 I’m currently learning **AWS**  <img align="right" height="150" src="https://media1.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e474qja5hdzkzchp110n696msuy6muqlde2wqqbapue&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+
+- 💬 Ask me about **Java, Spring boot and AWS**
+
+
+<h4 align="left">LANGUAGES & TOOLS</h4>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexpm27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexpm27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
+###
+
+
