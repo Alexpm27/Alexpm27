@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Proyecto Delichi</h1>
+        <h1>Delichi BackEnd</h1>
     </header>
     <section>
         <h2>Instalación</h2>
