@@ -3,7 +3,7 @@
 <p> My name is Alex and I'm a BackEnd developer and DevOps, from <b>Chiapas, México</b>. </p>
 
 
-- 🔭 I’m currently working on [Delichi](https://github.com/Alexpm27/delichibackend) 
+- 🔭 I’m currently working on RocketCode
 
 - 🌱 I’m currently learning **AWS**  <img align="right" height="150" src="https://media1.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e474qja5hdzkzchp110n696msuy6muqlde2wqqbapue&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
